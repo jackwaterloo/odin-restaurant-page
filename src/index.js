@@ -1,2 +1,2 @@
 import "./styles/main.css";
-alert("Javascript connected")
+// alert("Javascript connected")
