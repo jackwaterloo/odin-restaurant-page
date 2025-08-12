@@ -1,0 +1,125 @@
+{
+  "restaurantName": "Pancake Palace",
+  "menu": {
+    "mainDishes": [
+      {
+        "id": "mp001",
+        "name": "Classic Buttermilk Pancakes",
+        "description": "Fluffy buttermilk pancakes, served with whipped butter and maple syrup.",
+        "price": "$9.99"
+      },
+      {
+        "id": "mp002",
+        "name": "Blueberry Bliss Pancakes",
+        "description": "Our classic pancakes loaded with fresh blueberries, topped with blueberry compote.",
+        "price": "$11.49"
+      },
+      {
+        "id": "mp003",
+        "name": "Chocolate Chip Delight",
+        "description": "Rich chocolate chips baked into our golden pancakes, drizzled with chocolate sauce.",
+        "price": "$10.99"
+      },
+      {
+        "id": "mp004",
+        "name": "Belgian Waffle Wonderland",
+        "description": "Crispy golden Belgian waffle, served with powdered sugar, whipped cream, and choice of fruit.",
+        "price": "$10.79"
+      },
+      {
+        "id": "mp005",
+        "name": "French Toast Fantasy",
+        "description": "Thick-cut challah bread dipped in a sweet cinnamon batter, griddled to perfection.",
+        "price": "$9.50"
+      },
+      {
+        "id": "mp006",
+        "name": "Hearty Breakfast Platter",
+        "description": "Two eggs any style, choice of bacon or sausage, breakfast potatoes, and toast.",
+        "price": "$12.99"
+      },
+      {
+        "id": "mp007",
+        "name": "Veggie Omelette",
+        "description": "Three-egg omelette with spinach, mushrooms, bell peppers, onions, and cheddar cheese. Served with toast.",
+        "price": "$11.99"
+      }
+    ],
+    "sides": [
+      {
+        "id": "s001",
+        "name": "Crispy Bacon",
+        "description": "Strips of perfectly cooked crispy bacon.",
+        "price": "$4.00"
+      },
+      {
+        "id": "s002",
+        "name": "Breakfast Sausage",
+        "description": "Two savory sausage patties.",
+        "price": "$3.75"
+      },
+      {
+        "id": "s003",
+        "name": "Breakfast Potatoes",
+        "description": "Golden brown diced potatoes seasoned with herbs.",
+        "price": "$3.50"
+      },
+      {
+        "id": "s004",
+        "name": "Fresh Fruit Cup",
+        "description": "Seasonal assortment of fresh fruit.",
+        "price": "$4.50"
+      },
+      {
+        "id": "s005",
+        "name": "Toast (White/Wheat/Rye)",
+        "description": "Two slices of your choice of toast with butter and jelly.",
+        "price": "$2.50"
+      },
+      {
+        "id": "s006",
+        "name": "Single Egg",
+        "description": "One egg cooked any style.",
+        "price": "$2.00"
+      }
+    ],
+    "beverages": [
+      {
+        "id": "b001",
+        "name": "Coffee",
+        "description": "Freshly brewed regular or decaf.",
+        "price": "$2.99"
+      },
+      {
+        "id": "b002",
+        "name": "Orange Juice",
+        "description": "Freshly squeezed orange juice.",
+        "price": "$3.50"
+      },
+      {
+        "id": "b003",
+        "name": "Apple Juice",
+        "description": "Refreshing apple juice.",
+        "price": "$3.25"
+      },
+      {
+        "id": "b004",
+        "name": "Milk (2%/Skim)",
+        "description": "Your choice of 2% or skim milk.",
+        "price": "$2.75"
+      },
+      {
+        "id": "b005",
+        "name": "Hot Tea",
+        "description": "Assorted black and herbal teas.",
+        "price": "$2.99"
+      },
+      {
+        "id": "b006",
+        "name": "Hot Chocolate",
+        "description": "Rich hot chocolate topped with whipped cream.",
+        "price": "$3.99"
+      }
+    ]
+  }
+}
