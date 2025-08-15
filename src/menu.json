@@ -1,7 +1,7 @@
 {
   "restaurantName": "Pancake Palace",
   "menu": {
-    "mainDishes": [
+    "Main Dishes": [
       {
         "id": "mp001",
         "name": "Classic Buttermilk Pancakes",
@@ -45,7 +45,7 @@
         "price": "$11.99"
       }
     ],
-    "sides": [
+    "Sides": [
       {
         "id": "s001",
         "name": "Crispy Bacon",
@@ -83,7 +83,7 @@
         "price": "$2.00"
       }
     ],
-    "beverages": [
+    "Beverages": [
       {
         "id": "b001",
         "name": "Coffee",
