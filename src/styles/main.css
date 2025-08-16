@@ -1,5 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Noto%20Sans%20Carian:700|Noto%20Sans%20Carian:400');
+
 :root{
   padding: 20px;
+  --background: #f1f3fc;
+  --primary: #1e43f4;
+  --secondary: #e587c6;
+  --accent: #dc5f70;
+  background-color: var(--background);
+}
+
+body {
+  font-family: 'Noto Sans Carian';
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Noto Sans Carian';
+  font-weight: 700;
+}
+
+html {font-size: 100%;} /* 16px */
+
+h1 {font-size: 4.210rem; /* 67.36px */}
+
+h2 {font-size: 2.5rem; /* 50.56px */}
+
+h3 {font-size: 1.8rem; /* 37.92px */}
+
+small {font-size: 0.750rem; /* 12px */}
+
+section {
+  background-color: var(--secondary);
+  width: clamp(375px,75vw,650px);
 }
 
 body{
