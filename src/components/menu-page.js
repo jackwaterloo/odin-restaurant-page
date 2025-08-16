@@ -1,5 +1,5 @@
 
-import menuData from "../menu.json"; //valid way to import JSON. Should already be handeled by webpack by default
+import menuData from "../public/json/menu.json"; //valid way to import JSON. Should already be handled by webpack by default
 
 console.log(menuData);
 

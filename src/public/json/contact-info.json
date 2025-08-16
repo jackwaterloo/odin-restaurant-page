@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Jeff",
+    "title":"Owner",
+    "phone":"999-999-9999",
+    "email":"jeff@pancakepalace.com"
+  },
+  {
+    "name":"Jerry",
+    "title":"Chef",
+    "phone":"999-999-9999",
+    "email":"jerry@pancakepalace.com"
+  },
+  {
+    "name":"Jack",
+    "title":"Host",
+    "phone":"999-999-9999",
+    "email":"jack@pancakepalace.com"
+  }
+]
