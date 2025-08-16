@@ -1,7 +1,4 @@
-
 import menuData from "../public/json/menu.json"; //valid way to import JSON. Should already be handled by webpack by default
-
-console.log(menuData);
 
 const menuPage = [];
 
@@ -16,8 +13,6 @@ menuPage.push(section);
 
 // menu content
 for (const title in menuData) {
-    console.log("Below is the title:");
-    console.log(title);
     // title is section of menu. Like beverages, entree, etc
     section = document.createElement("section");
     const h2 = document.createElement("h2");
@@ -45,7 +40,5 @@ for (const title in menuData) {
         menuPage.push(section);
     }
 }
-
-console.log(menuPage);
 
 export default menuPage;
