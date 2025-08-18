@@ -28,6 +28,10 @@ about.appendChild(aboutP);
 const hours = document.createElement("section");
 hours.setAttribute("id", "hours");
 
+const hourH2 = document.createElement("h2");
+hourH2.textContent = "Hours";
+hours.appendChild(hourH2);
+
 const ulElem = document.createElement("ul");
 for (const time of TIMES){
   const liElem = document.createElement("li");
