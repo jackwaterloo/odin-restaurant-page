@@ -7,6 +7,7 @@ const menuPage = [];
 let section = document.createElement("section");
 const h1 = document.createElement("h1");
 h1.textContent = "Menu";
+section.classList.add("title-sect");
 section.appendChild(h1);
 
 menuPage.push(section);
@@ -17,6 +18,7 @@ for (const title in menuData) {
     section = document.createElement("section");
     const h2 = document.createElement("h2");
     h2.textContent = title;
+    section.classList.add("menu-cat");
     section.appendChild(h2);
     menuPage.push(section);
 

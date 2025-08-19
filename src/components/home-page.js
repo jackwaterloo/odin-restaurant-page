@@ -8,7 +8,7 @@ const ADDRESS = "6789 Meadow Rd, Peoria, IL";
 
 // title section
 const title = document.createElement("section");
-title.setAttribute("id", "title");
+title.classList.add("title-sect");
 
 const h1 = document.createElement("h1");
 h1.textContent = RESTAURANTNAME;

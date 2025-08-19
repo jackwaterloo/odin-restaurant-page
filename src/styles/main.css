@@ -15,13 +15,14 @@ body {
   line-height: 1.6;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 
 #content {
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 20px;
   padding: 20px;
   width: 90%;
@@ -70,6 +71,28 @@ section {
 h1, h2, h3 {
   color: var(--accent-color);
   text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+section.menu-cat > h2 {
+  margin-block-end: 0;
+  margin-block-start: 0;
+}
+
+section.menu-cat {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title-sect {
+  width:inherit;
+}
+
+.contact-card p {
+  text-align: left;
 }
 
 ul {
