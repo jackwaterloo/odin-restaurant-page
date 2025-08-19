@@ -31,10 +31,8 @@ This project is a single-page application for a fictional restaurant called "Pan
 ### Project Organization
 - **Modular Design**: The codebase is structured into modules, promoting code reusability and maintainability.
 - **Separation of Concerns**: Clear separation between data (JSON files), presentation logic (JavaScript modules), and styling (CSS files).
-- **Component-Based Architecture**: The UI is built using reusable components, making it easier to manage and update the application.
 
 ### JSON Data Management
-- **External Data Storage**: Menu items and contact information are stored in JSON files, allowing for easy updates and modifications to the content.
 - **Data Integration**: Demonstrates how to load and render data from JSON files into the DOM, creating dynamic and data-driven web pages.
 
 ## Project Structure
